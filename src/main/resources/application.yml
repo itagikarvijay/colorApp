@@ -1,0 +1,5 @@
+spring:
+   application:
+      name: colorapp
+server:
+   port: 8181
